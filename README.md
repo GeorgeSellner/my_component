@@ -18,7 +18,7 @@ release, then run:
 
 ```
 cd my_component
-git checkout v0.0.0
+git checkout v0.1.0
 ```
 
 # Unit Testing

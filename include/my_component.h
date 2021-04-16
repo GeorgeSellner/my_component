@@ -12,7 +12,7 @@ extern "C" {
 
 /* These version numbers are handled automatically via bump2version */
 static uint8_t MY_COMPONENT_VERSION_MAJOR = 0;
-static uint8_t MY_COMPONENT_VERSION_MINOR = 0;
+static uint8_t MY_COMPONENT_VERSION_MINOR = 1;
 static uint8_t MY_COMPONENT_VERSION_PATCH = 0;
 
 /* Declare functions here */
